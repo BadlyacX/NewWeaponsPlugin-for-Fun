@@ -1,0 +1,5 @@
+name: NewWeapons
+main: com.badlyac.newweapons.NewWeaponsMain
+version: 1.0
+author: badlyac
+api-version: 1.20
